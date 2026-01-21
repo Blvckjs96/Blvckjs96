@@ -39,9 +39,9 @@
 ### 💫 Quick Overview
 
 <table>
-<tr><td>👤 <strong>Role</strong></td><td>Full-Stack Developer & Co-Founder @ Engenium</td></tr>
+<tr><td>👤 <strong>Role</strong></td><td>Full-Stack Developer & Co-Founder at Engenium</td></tr>
 <tr><td>📍 <strong>Location</strong></td><td>Sugar Land, Texas</td></tr>
-<tr><td>🎓 <strong>Education</strong></td><td>CS @ Texas A&M University</td></tr>
+<tr><td>🎓 <strong>Education</strong></td><td>Bachelor CS at Texas A&M University</td></tr>
 </table>
 
 **🔭 Currently:**
