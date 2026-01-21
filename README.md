@@ -19,7 +19,7 @@
 
 ```typescript
 const jason = {
-  location: "Sugar Land, Texas",
+  location: "Sugar Land, Texas 🤠",
   education: "Computer Science @ Texas A&M University 🎓",
   currentRole: "Full-Stack Developer @ Engenium (Co-Founder) 🚀",
   interests: ["AI/ML", "Web Development", "System Design", "Open Source"],
@@ -42,8 +42,8 @@ const jason = {
   },
 
   architecture: ["Microservices", "RESTful APIs", "WebSocket", "OAuth2"],
-  currentFocus: "Building AI-powered productivity tools",
-  funFact: "I debug with console.log() and I'm not ashamed "
+  currentFocus: "Building AI-powered productivity tools 🤖",
+  funFact: "I debug with console.log() and I'm not ashamed 🐛"
 };
 ```
 
@@ -143,7 +143,7 @@ const jason = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"> 3D Portfolio</h3>
+      <h3 align="center">🎨 3D Portfolio</h3>
       <p align="center">
         <a href="https://github.com/Blvckjs96/Portfolio3d" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
