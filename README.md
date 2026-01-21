@@ -63,14 +63,12 @@
 
 **Texas A&M University**
 *BS in Computer Science*
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/12db4623-e878-43f5-a973-b352d185b797" />
- 2023 - 2025
-📊 Major GPA: **3.7/4.0**
+2023 - 2025
+Major GPA: **3.7/4.0**
 
 **Houston Community College**
 *AS in Computer Science*
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/89596108-9f7c-4b89-a6fa-0e0d8124abd7" />
- 2020 - 2022
+2020 - 2022
 🏆 **Dean's List** (3 semesters)
 
 <br/>
@@ -158,7 +156,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blvckjs96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=F8FAFC&ring_color=8B5CF6"/>
@@ -166,19 +164,28 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blvckjs96&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Blvckjs96&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blvckjs96&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=F59E0B&point=F8FAFC&title_color=8B5CF6&area_color=8B5CF6" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blvckjs96
+  &hide_border=true
+  &area=true
+  &bg_color=000000
+  &color=00FF41
+  &line=00FF41
+  &point=7CFF9E
+  &area_color=00FF41
+  &title_color=00FF41" />
 </div>
+
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=radical&no-frame=true&no-bg=true&row=1&column=7&v=2" alt="Trophies"/>
 </div>
 
 <br/>
