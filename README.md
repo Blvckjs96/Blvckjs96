@@ -164,26 +164,26 @@ Major GPA: **3.7/4.0**
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Blvckjs96&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC" alt="GitHub Streak"/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Blvckjs96&theme=radical&hide_border=true)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blvckjs96
-  &hide_border=true
-  &area=true
-  &bg_color=000000
-  &color=00FF41
-  &line=00FF41
-  &point=7CFF9E
-  &area_color=00FF41
-  &title_color=00FF41" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blvckjs96&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=F59E0B&point=F8FAFC&title_color=8B5CF6&area_color=8B5CF6" alt="Activity Graph"/>
 </div>
-
 
 <br/>
 
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+<br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=radical&no-frame=true&no-bg=true&row=1&column=7&v=2" alt="Trophies"/>
 </div>
