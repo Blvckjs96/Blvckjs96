@@ -26,7 +26,7 @@
 <br/>
 
 <!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" height="6" src="https://raw.githubusercontent.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 <br/>
 
