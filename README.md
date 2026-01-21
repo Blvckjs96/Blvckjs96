@@ -26,7 +26,7 @@
 <br/>
 
 <!-- Gradient Divider -->
-<img width="100%" height="6" src="https://raw.githubusercontent.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img width="100%" height="2" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <br/>
 
