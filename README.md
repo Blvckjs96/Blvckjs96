@@ -86,8 +86,8 @@ Major GPA: **3.7/4.0**
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br/>
 
@@ -151,8 +151,8 @@ Major GPA: **3.7/4.0**
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br/>
 
@@ -164,8 +164,8 @@ Major GPA: **3.7/4.0**
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br/>
 
@@ -242,9 +242,8 @@ Served 6 clients over 3-year period
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 <br/>
 
 ## 🚀 Featured Projects
@@ -338,7 +337,7 @@ Electron desktop app with AI integration and real-time streaming
 </td>
 <td width="50%" valign="top">
 
-### 🎵 MusicBox Interactive
+### MusicBox Interactive
 **NCAR Atmospheric Chemistry Platform**
 
 <p align="center">
@@ -368,8 +367,8 @@ Browser-based simulation platform for atmospheric chemistry education
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br/>
 
@@ -414,8 +413,8 @@ Software Engineer positions<br/>at innovative companies
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br/>
 
