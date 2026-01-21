@@ -91,7 +91,7 @@ Major GPA: **3.7/4.0**
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -157,11 +157,6 @@ Major GPA: **3.7/4.0**
 <br/>
 
 ## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blvckjs96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=F8FAFC&ring_color=8B5CF6"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Blvckjs96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8FAFC&langs_count=8"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blvckjs96&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=00FF41&line=00FF41&point=7CFF9E&title_color=00FF41&area_color=00FF41" alt="Activity Graph"/>
