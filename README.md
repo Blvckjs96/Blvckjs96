@@ -26,7 +26,7 @@
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
@@ -63,12 +63,14 @@
 
 **Texas A&M University**
 *BS in Computer Science*
-📅 2023 - 2025
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/12db4623-e878-43f5-a973-b352d185b797" />
+ 2023 - 2025
 📊 Major GPA: **3.7/4.0**
 
 **Houston Community College**
 *AS in Computer Science*
-📅 2020 - 2022
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/89596108-9f7c-4b89-a6fa-0e0d8124abd7" />
+ 2020 - 2022
 🏆 **Dean's List** (3 semesters)
 
 <br/>
@@ -87,7 +89,7 @@
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
@@ -152,7 +154,7 @@
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
@@ -164,7 +166,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Blvckjs96&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC&dates=F8FAFC" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blvckjs96&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -176,13 +178,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 </div>
 
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
@@ -260,7 +262,7 @@ Served 6 clients over 3-year period
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
@@ -386,7 +388,7 @@ Browser-based simulation platform for atmospheric chemistry education
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
@@ -432,7 +434,7 @@ Software Engineer positions<br/>at innovative companies
 <br/>
 
 <!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 <br/>
 
