@@ -25,8 +25,8 @@
 
 <br/>
 
-<!-- Gradient Divider -->
-<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<!-- Cyber Neon Divider -->
+<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br/>
 
