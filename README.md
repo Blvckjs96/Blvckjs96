@@ -38,25 +38,23 @@
 
 ### 💫 Quick Overview
 
-```typescript
-const jason = {
-    role: "Full-Stack Developer & Co-Founder",
-    company: "Engenium",
-    location: "Sugar Land, Texas 🤠",
-    education: "CS @ Texas A&M University",
+<table>
+<tr><td>👤 <strong>Role</strong></td><td>Full-Stack Developer & Co-Founder @ Engenium</td></tr>
+<tr><td>📍 <strong>Location</strong></td><td>Sugar Land, Texas</td></tr>
+<tr><td>🎓 <strong>Education</strong></td><td>CS @ Texas A&M University</td></tr>
+</table>
 
-    currently: {
-        building: "AI-powered productivity tools",
-        learning: ["System Design", "Advanced ML", "Cloud Architecture"],
-        collaborating: "Open Source AI/ML projects"
-    },
+**🔭 Currently:**
+- Building AI-powered productivity tools
+- Learning System Design, Advanced ML, Cloud Architecture
+- Collaborating on Open Source AI/ML projects
 
-    available_for: ["Freelance", "Full-time Roles", "Collaborations"],
+**💼 Available For:**
+- Freelance Work
+- Full-Time Roles
+- Collaboration Opportunities
 
-    fun_fact: "Coffee → Code → Repeat ☕",
-    motto: "Building elegant solutions for complex problems"
-};
-```
+**💭 Motto:** *"Building elegant solutions for complex problems"*
 
 </td>
 <td width="40%" valign="top">
@@ -166,7 +164,7 @@ const jason = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blvckjs96&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC&dates=F8FAFC" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Blvckjs96&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=F8FAFC&dates=F8FAFC" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -178,7 +176,7 @@ const jason = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title_color=8B5CF6&text_color=F8FAFC&icon_color=F59E0B" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Blvckjs96&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
 </div>
 
 <br/>
