@@ -76,7 +76,7 @@ Major GPA: **3.7/4.0**
 ### 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio3d-xem2.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuan-kiet-nguyen-65054527a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-nguyen-65054527a/)
 [![Email](https://img.shields.io/badge/-Email-F59E0B?style=flat-square&logo=gmail&logoColor=white)](mailto:kiet.nguyen3896@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__im.jason__)
 
@@ -406,7 +406,7 @@ Software Engineer positions<br/>at innovative companies
 ### 📫 Reach Out
 
 [![Email](https://img.shields.io/badge/Email-kiet.nguyen3896%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiet.nguyen3896@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuan-kiet-nguyen-65054527a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-nguyen-65054527a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio3d-xem2.onrender.com/)
 
 </div>
